@@ -1321,7 +1321,7 @@ def mygeartest3(self , M=10, P=20,N1=15, N2=24):
 &lt;form method=POST action=mygeartest3&gt;
 模數:&lt;input type=text name=M&gt;&lt;br /&gt;
 壓力角:&lt;input type=text name=P&gt;&lt;br /&gt;
-齒輪1齒數:&lt;select name=N1&gt;
+齒輪1齒數:&lt;select name=N1&gt;&lt;br /&gt;
 &lt;option&gt;15&lt;/option&gt;
 &lt;option&gt;16&lt;/option&gt;
 &lt;option&gt;17&lt;/option&gt;
@@ -1389,6 +1389,7 @@ def mygeartest3(self , M=10, P=20,N1=15, N2=24):
 &lt;option&gt;79&lt;/option&gt;
 &lt;option&gt;80&lt;/option&gt;
 &lt;/select&gt;
+
 
 齒輪2齒數:&lt;select name=N2&gt;
 &lt;option&gt;15&lt;/option&gt;

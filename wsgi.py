@@ -697,7 +697,7 @@ class Hello(object):
     <form method=POST action=mygeartest3>
     模數:<input type=text name=M><br />
     壓力角:<input type=text name=P><br />
-    齒輪1齒數:<select name=N1>
+    齒輪1齒數:<select name=N1><br />
     <option>15</option>
     <option>16</option>
     <option>17</option>
@@ -765,6 +765,7 @@ class Hello(object):
     <option>79</option>
     <option>80</option>
     </select>
+
 
     齒輪2齒數:<select name=N2>
     <option>15</option>
