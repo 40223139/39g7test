@@ -258,6 +258,7 @@ def index(self, guess=None):
         第七組齒輪部分&lt;br /&gt;
         &lt;a href="mygeartest2"&gt;mygeartest2&lt;/a&gt;&lt;br /&gt;
         &lt;a href="mygeartest3"&gt;mygeartest3(二齒)&lt;/a&gt;&lt;br /&gt;
+        上下相接之二齒
         &lt;a href="mygeartest4"&gt;mygeartest4(四齒)&lt;/a&gt;&lt;br /&gt;
         &lt;a href="mygeartest5"&gt;mygeartest5(六齒)&lt;/a&gt;&lt;br /&gt;
         &lt;a href="man"&gt;man(自動組立)&lt;/a&gt;&lt;br /&gt;

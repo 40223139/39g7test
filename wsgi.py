@@ -86,6 +86,7 @@ class Hello(object):
             第七組齒輪部分<br />
             <a href="mygeartest2">mygeartest2</a><br />
             <a href="mygeartest3">mygeartest3(二齒)</a><br />
+            上下相接之二齒
             <a href="mygeartest4">mygeartest4(四齒)</a><br />
             <a href="mygeartest5">mygeartest5(六齒)</a><br />
             <a href="man">man(自動組立)</a><br />
