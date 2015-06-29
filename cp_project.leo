@@ -1960,8 +1960,8 @@ def mygeartest5(self , M=10, P=15,N1=15, N2=24,N3=15,N4=24 ,N5=15,N6=24):
 模數:&lt;input type=text name=M&gt;&lt;br /&gt;
 壓力角:&lt;input type=text name=P&gt;&lt;br /&gt;
 齒輪1齒數:&lt;select name=N1&gt;
-     &lt;option selected="true"&gt;15&lt;/option&gt;
-     &lt;option&gt;16&lt;/option&gt;
+    &lt;option selected="true"&gt;15&lt;/option&gt;
+    &lt;option&gt;16&lt;/option&gt;
     &lt;option&gt;17&lt;/option&gt;
     &lt;option&gt;18&lt;/option&gt;
     &lt;option&gt;19&lt;/option&gt;

@@ -1332,8 +1332,8 @@ class Hello(object):
     模數:<input type=text name=M><br />
     壓力角:<input type=text name=P><br />
     齒輪1齒數:<select name=N1>
-         <option selected="true">15</option>
-         <option>16</option>
+        <option selected="true">15</option>
+        <option>16</option>
         <option>17</option>
         <option>18</option>
         <option>19</option>
